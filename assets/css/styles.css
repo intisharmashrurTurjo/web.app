@@ -498,9 +498,10 @@ img{
 
 /* ===== MEDIA QUERIES =====*/
 /* For small devices */
-@media screen and (max-width: 866px) {
+@media screen and (max-width: 766px) {
   .user-box img {
-    width: 190px;
+    width: 140px;
+    transform: translate(67%,0%);
   }
 }
 
