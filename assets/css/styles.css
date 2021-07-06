@@ -235,6 +235,7 @@ img{
 /*=== Show menu ===*/
 .show{
     right: 0;
+    margin-top: 26.4px;
 }
 
 /*Active menu*/
